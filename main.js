@@ -1,5 +1,4 @@
 let request = require("request");
-var mongoose = require('mongoose');
 let cheerio = require("cheerio");
 let mongoose = require('mongoose');
 var color = require("colors");
